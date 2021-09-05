@@ -1,6 +1,6 @@
 created: 20210905124520367
 creator: Fifholz
-modified: 20210905125209760
+modified: 20210905142204098
 modifier: Fifholz
 tags: 领域
 title: 大地
@@ -15,9 +15,11 @@ type: text/vnd.tiddlywiki
 
 !!! 基础法术 Basic Spells
 
-你获得碎石猛击和粒化术作为额外自发法术。
+你获得[[大地技俩]]作为额外自发法术。
 
 !!! 法术
+
+你的领域法术会具有等同于你领域熟练度的法术熟练度。
 
 <<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[sort[title]]">>
 

@@ -1,0 +1,17 @@
+created: 20210905155945911
+creator: Fifholz
+modified: 20210905161144984
+modifier: Fifholz
+tags: 
+title: 着陆
+tmap.id: 7444c97f-e803-4ab0-b582-1336ad312cd7
+type: text/vnd.tiddlywiki
+
+!!! 着陆 Arrest a Fall [R]
+''触发：''你处于坠落中。
+
+''需求：''你拥有飞行速度。
+
+你尝试一次[[特技]]检定来缓冲坠落。DC通常为15，但根据风力风向或其它环境因素，DC可以被提高。
+
+* ''成功：''你正常轻轻落地，不受到这次坠落伤害。

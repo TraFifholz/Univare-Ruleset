@@ -1,6 +1,6 @@
 created: 20210905102945076
 creator: TiddlyGitUser
-modified: 20210905124432489
+modified: 20210905141529754
 modifier: Fifholz
 tags: 
 title: 能力组
@@ -15,4 +15,4 @@ type: text/vnd.tiddlywiki
 
 !! 流派 Style
 
-<<list-links filter:"[tag[领域]] +[sort[title]]">>
+<<list-links filter:"[tag[流派]] +[sort[title]]">>

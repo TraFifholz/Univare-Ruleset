@@ -1,0 +1,13 @@
+created: 20210905160134632
+creator: Fifholz
+modified: 20210905160134694
+modifier: Fifholz
+tags: 
+title: 冲锋
+tmap.id: e79f65a7-5e35-4d96-b6bc-13d5ae337350
+type: text/vnd.tiddlywiki
+
+!!! 冲锋 Charge [AA]
+[攻击][移动]
+
+[[行走]]两次，并进行一次[[打击]]。这两次行走只能沿直线进行，并且不可以有任何障碍物或困难地形阻挡你前进。直到你的下一个回合开始，你在命中上获得+2的加值，但是在AC上承受-2的减值。你必须要有目标的视觉线才能尝试冲锋。

@@ -1,0 +1,13 @@
+created: 20210905162054150
+creator: Fifholz
+modified: 20210905162100721
+modifier: Fifholz
+title: 伤害骰
+tmap.id: e293f866-2b6f-41cd-9dfb-b12fc3007a8f
+type: text/vnd.tiddlywiki
+
+体型变化或其他效果可能改变伤害骰，其中体型增大缩小1级伤害骰便变大缩小1级。伤害骰的等级由小到大排序如下：
+
+1，1d2，1d3，1d4，1d6，1d8，1d10，1d12
+
+伤害骰最小不会小于1，最大不会超过1d12。

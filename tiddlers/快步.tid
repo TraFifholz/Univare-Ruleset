@@ -1,0 +1,17 @@
+created: 20210905161005443
+creator: Fifholz
+modified: 20210905161005500
+modifier: Fifholz
+tags: 
+title: 快步
+tmap.id: 8615358b-4789-41ae-806e-da59807ad1a2
+type: text/vnd.tiddlywiki
+
+!!! 快步 Step [A]
+[移动]
+
+''需求：''你的速度至少为10尺。
+
+你小心移动5尺。和大多数移动类型不同，快步不会触发那些硬移动动作或进出格子而触发的反应动作，例如借机攻击。
+
+你无法快步进入困难地形，也无法使用陆地速度之外的速度进行快步。

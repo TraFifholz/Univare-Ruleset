@@ -1,0 +1,11 @@
+created: 20210905150427245
+creator: Fifholz
+modified: 20210905150440051
+modifier: Fifholz
+title: 起源
+tmap.id: 97ca9421-f80c-4340-833d-06d2019cd995
+type: text/vnd.tiddlywiki
+
+你通过起源获得的属性增强彼此不叠加。
+
+<<list-links filter:"[tag<currentTiddler>] +[sort[title]]">>

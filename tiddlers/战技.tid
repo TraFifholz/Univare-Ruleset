@@ -1,0 +1,23 @@
+created: 20210905163031829
+creator: Fifholz
+modified: 20210905163053107
+modifier: Fifholz
+tags: 规则 战斗
+title: 战技
+tmap.id: d5c7f545-e223-4a8e-b26a-34412dbe90fd
+type: text/vnd.tiddlywiki
+
+力量战技对抗的是目标的战斗防御。
+
+''检定：''D20+BAB+力量调整值+战技加值
+
+!! 战技列表 Combat Maneuvers List
+
+* [[卸武]]
+* [[拖拽]]
+* [[攫抓]]
+* [[擒抱]]
+* [[闯越]]
+* [[冲撞]]
+* [[破武]]
+* [[摔绊]]

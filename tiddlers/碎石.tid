@@ -1,0 +1,14 @@
+created: 20210905140625711
+creator: Fifholz
+modified: 20210905142119567
+modifier: Fifholz
+tags: 轰击性质
+title: 碎石
+tmap.id: da8fe4ae-0d93-4fae-91cf-481c29ab5a7f
+type: text/vnd.tiddlywiki
+
+此法术的特效为碎开的石头，它们将如同刀刃般尖锐。
+
+被此法术命中、或豁免失败的生物将额外受到1d4S的伤害，命中大成功、豁免大失败的生物则受到2d4S的伤害。
+
+法术熟练度专家时，伤害骰为d6，大师为d8，传奇为d10。

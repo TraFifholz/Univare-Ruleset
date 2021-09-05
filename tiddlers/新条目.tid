@@ -1,0 +1,12 @@
+created: 20210905154902215
+creator: Fifholz
+modified: 20210905155258586
+modifier: Fifholz
+tags: $:/tags/Stylesheet
+title: 新条目
+tmap.id: c9525395-0e96-4dea-99a8-2b268aba2671
+type: text/vnd.tiddlywiki
+
+h1,h2,h3 {
+	color: #265bb1
+}

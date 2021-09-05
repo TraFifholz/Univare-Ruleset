@@ -1,8 +1,12 @@
-color: #d4d4d4
-created: 20210905093358628
-creator: TiddlyGitUser
-modified: 20210905110325042
-modifier: TiddlyGitUser
+created: 20210905145059544
+creator: Fifholz
+modified: 20210905145754302
+modifier: Fifholz
+tags: 属性
 title: 感知
-tmap.id: add3e432-8634-4b9a-87f7-52777b97e563
+tmap.id: daec647a-f105-4002-8d2f-cce2d4cca7c4
 type: text/vnd.tiddlywiki
+
+感知量化了角色的意志力、常识判断力、警觉性和直觉。如果你希望你的角色拥有敏锐的直觉，那就给他较高的感知值。
+
+感知豁免用于对抗那些攻击意志和精神力的能力。凡是你可以通过意志去克服的事情感知豁免都可以包办。

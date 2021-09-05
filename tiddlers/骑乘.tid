@@ -1,0 +1,15 @@
+created: 20210905160755893
+creator: Fifholz
+modified: 20210905160755956
+modifier: Fifholz
+tags: 
+title: 骑乘
+tmap.id: 05bcef22-7155-4949-8e29-e82f77b9b1bd
+type: text/vnd.tiddlywiki
+
+!!! 骑乘 Mount [A]
+[移动]
+
+''需求：''你邻接一个体型至少大于你一级且自愿成为你坐骑的生物。
+
+你骑乘上该生物。若你已处于骑乘中，使用该动作会改让你脱离骑乘，站到邻接坐骑的一个格子中。
