@@ -1,26 +1,206 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Have%2520fun%2520with</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:List-links</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:TiddlyMap!!</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconBlack.png</loc>
-		<lastmod>2020-06-05</lastmod>
+		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconBlue.png</loc>
-		<lastmod>2020-06-05</lastmod>
+		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconWhite.png</loc>
-		<lastmod>2020-06-05</lastmod>
+		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
-		<lastmod>2020-06-05</lastmod>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:pre</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:人类</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:勇气</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:千招武神</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:天生护甲训练</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:子血脉：清霜龙</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:安条克人</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:徒手</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:感知</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:战斗</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:托纳人</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:技能</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:教会学校</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:无甲训练</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:游侠</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:种族</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:职业</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:职业：战士</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:能力组</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:英勇</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:范型</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:血脉</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:血脉觉醒</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:血脉：龙</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:额外后备天赋</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:首页</loc>
+		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:龙化</loc>
+		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
