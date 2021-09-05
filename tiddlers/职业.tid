@@ -1,0 +1,16 @@
+created: 20210905085151250
+creator: TiddlyGitUser
+modified: 20210905110325183
+modifier: TiddlyGitUser
+tags: 
+title: 职业
+tmap.id: b48991db-be09-499c-bf63-7ce868a7df48
+type: text/vnd.tiddlywiki
+
+职业是一个角色可以选择的核心决定他画风及能力的东西。
+
+<<list-links filter:"[tag<currentTiddler>] +[sort[title]]">>
+
+! 通用职业专长
+
+<<list-links filter:"[tag[专长]] +[tag[通用]] +[sort[title]]">>

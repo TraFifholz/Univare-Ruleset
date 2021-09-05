@@ -1,0 +1,14 @@
+created: 20210905100259994
+creator: TiddlyGitUser
+modified: 20210905110325134
+modifier: TiddlyGitUser
+tags: 
+title: 血脉
+tmap.id: 317ce42b-a33b-4398-b14c-9476df73f854
+type: text/vnd.tiddlywiki
+
+你可以放弃获得你种族提供的遗传，改为获得[[血脉觉醒]]遗传。
+
+当你获得血脉时，你需要选择一个子血脉。作为职业提供的初始范型的替代，你改为在子血脉范型上受训。
+
+<<list-links filter:"[tag<currentTiddler>] +[sort[title]]">>

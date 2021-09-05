@@ -1,0 +1,29 @@
+created: 20210905100432029
+creator: TiddlyGitUser
+modified: 20210905110325155
+modifier: TiddlyGitUser
+tags: 血脉
+title: 血脉：龙
+tmap.id: 13f0f528-4c9d-4a0b-b980-b3ef42820aa4
+type: text/vnd.tiddlywiki
+
+你的种族生命骰进行如下调整：
+
+|原|新|
+|D4|D8|
+|D6|D8|
+|D8|D10|
+|D10|D10|
+|D12|D12|
+
+!! 子血脉 Sub-Bloodline
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[范型]] +[tag[子血脉]] +[sort[title]]">>
+
+!! 范型 Template
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[范型]] -[tag[子血脉]] +[sort[title]]">>
+
+!! 专长 Feats
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[专长]] +[sort[title]]">>

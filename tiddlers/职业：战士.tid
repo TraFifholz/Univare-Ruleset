@@ -1,0 +1,23 @@
+created: 20210905085810362
+creator: TiddlyGitUser
+modified: 20210905110325187
+modifier: TiddlyGitUser
+tags: 职业
+title: 职业：战士
+tmap.id: d6a30fcd-59ac-47ec-bcd8-9c1f1426dc90
+type: text/vnd.tiddlywiki
+
+战士是最中坚的斗士，他们为队伍提供最有力的进攻手段和最可靠的防护能力。战士适合一切战斗范型，来为战士的战斗方式提供补充。
+当你以战士职业创建角色时，你获得以下好处：
+
+* ''职业生命骰：''D10。你在完成职业训练时生命值上限提升10点；
+* ''初始熟练：''你初始在战斗上具有传奇的熟练度，并且在运动和特技上受训；除此之外，你还会在4个自选的普通技能上获得受训熟练度；
+* ''初始范型：''你初始在任意一个范型上受训。
+
+!! 职业范型 Class Template
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[范型]] +[sort[title]]">>
+
+!! 职业专长 Class Feats
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[专长]] +[sort[title]]">>
