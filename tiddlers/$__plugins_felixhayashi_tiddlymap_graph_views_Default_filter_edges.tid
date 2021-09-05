@@ -1,0 +1,5 @@
+created: 20210905105955601
+filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+modified: 20210905105955601
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default/filter/edges
+type: text/vnd.tiddlywiki
