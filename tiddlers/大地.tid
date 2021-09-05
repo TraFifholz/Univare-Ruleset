@@ -1,0 +1,26 @@
+created: 20210905124520367
+creator: Fifholz
+modified: 20210905125209760
+modifier: Fifholz
+tags: 领域
+title: 大地
+tmap.id: 67f58261-cf2f-49dd-8510-8e99f2320fb8
+type: text/vnd.tiddlywiki
+
+|熟练度|好处|
+|受训|基础法术|
+|专家||
+|大师||
+|传奇||
+
+!!! 基础法术 Basic Spells
+
+你获得碎石猛击和粒化术作为额外自发法术。
+
+!!! 法术
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[sort[title]]">>
+
+!!! 天赋
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[天赋]] +[sort[title]]">>
