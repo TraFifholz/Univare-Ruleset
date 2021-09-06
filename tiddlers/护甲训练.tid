@@ -1,0 +1,12 @@
+created: 20210906081852760
+creator: Fifholz
+modified: 20210906081927309
+modifier: Fifholz
+tags: 装备 天赋
+title: 护甲训练
+tmap.id: ff6757c5-6501-4696-9a19-01e6e0d4acda
+type: text/vnd.tiddlywiki
+
+''先决条件：''装备受训
+
+当你穿戴你擅长的护甲时，你的护甲会为你提供额外+1的护甲AC，装备技能等级6级、10级、14级和18级额外+1；同时你的护甲的最大敏捷上限增加1点，7级、11级、15级和19级额外增加1点。
