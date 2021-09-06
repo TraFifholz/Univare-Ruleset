@@ -1,0 +1,28 @@
+created: 20210906160759943
+creator: Fifholz
+modified: 20210906161154991
+modifier: Fifholz
+title: 源流
+tmap.id: 055e3d45-b9b1-44a1-83c2-7b14e7edbff1
+type: text/vnd.tiddlywiki
+
+源流决定了你的施法方式。
+
+当你获得源流时，该源流会具有以下特征：
+
+* ''技能：''这个属性决定了你的施法能力来源于哪个技能。
+
+* ''施法主属性（Casting Ability Modifier, CAM）：''你使用此源流施法的施法主属性为技能的相关属性。
+
+* ''源流等级：''你的源流等级等于源流技能的技能等级。
+
+* ''施法类型：''当你获得天赋源流时，施法类型将决定该源流提供的好处。
+
+!!! 其他规则 Other Rules
+
+* [[天赋源流]]
+* [[源流技能额外能力]]
+
+!!! 源流列表 Traditions List
+
+<<list-links filter:"[tag<currentTiddler>] +[sort[title]]">>

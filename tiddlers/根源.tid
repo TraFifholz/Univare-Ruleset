@@ -1,0 +1,16 @@
+created: 20210906090309772
+creator: Fifholz
+modified: 20210906091233234
+modifier: Fifholz
+tags: 能力组
+title: 根源
+tmap.id: 6633a622-9731-46a5-9759-491cb3596a1e
+type: text/vnd.tiddlywiki
+
+魔法根源有四种：[[奥术]]，[[神术]]，[[原能]]，[[异能]]。对应的魔法效果会带有相应的根源特性。每个根源作为一个单独的能力组存在，并具有自身的熟练度。
+
+根源熟练度限制了你施展本根源的魔法时的强弱。当你通过某一[[源流]]施展[[法术]]或[[源纱]]时，你的法术和源纱熟练度不能超过该源流所属的根源熟练度。
+
+!! 天赋 Talents
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[天赋]] +[sort[title]]">>

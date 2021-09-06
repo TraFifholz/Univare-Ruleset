@@ -1,0 +1,9 @@
+created: 20210906164017079
+creator: Fifholz
+modified: 20210906164346381
+modifier: Fifholz
+title: 幻象生物
+tmap.id: 2cc93e40-ab32-4f59-8663-6456e481fd9a
+type: text/vnd.tiddlywiki
+
+如果创造一个幻象生物，你的幻象攻击加值等于幻象的MS+你的CAM，其AC和接触AC等于10+体型调整值+MS+CAM。一个虚幻的生物可以提供夹击加值给那些相信它的目标。在任何在战斗中攻击了幻术的生物将在不相信这个幻象的检定上获得+5的环境加值，除非该幻象具有[[触觉]]特征。

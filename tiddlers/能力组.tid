@@ -1,6 +1,6 @@
 created: 20210905102945076
 creator: TiddlyGitUser
-modified: 20210905141529754
+modified: 20210906153633857
 modifier: Fifholz
 tags: 
 title: 能力组
@@ -11,7 +11,7 @@ type: text/vnd.tiddlywiki
 
 !! 领域 Sphere
 
-<<list-links filter:"[tag[领域]] +[sort[title]]">>
+{{领域}}
 
 !! 流派 Style
 

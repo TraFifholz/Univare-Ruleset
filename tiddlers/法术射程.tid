@@ -1,0 +1,14 @@
+created: 20210906091640276
+creator: Fifholz
+modified: 20210906091925339
+modifier: Fifholz
+tags: 
+title: 法术射程
+tmap.id: 5e3a785c-104b-4351-a4ed-6109ad777c81
+type: text/vnd.tiddlywiki
+
+法术可能具有射程，也可能没有。如果一个法术的目标是自身，那么它便不具有射程。
+
+谈论射程时，近距是30呎，中距是100呎，远距是400呎。
+
+特别的有一些法术的射程为[[接触]]。

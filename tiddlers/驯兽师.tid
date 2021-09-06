@@ -1,0 +1,26 @@
+created: 20210906170635618
+creator: Fifholz
+modified: 20210906170832363
+modifier: Fifholz
+title: 驯兽师
+tmap.id: 01536877-b98b-4021-a270-b78f8a2462e0
+type: text/vnd.tiddlywiki
+
+''先决条件：''[[驯兽]]受训
+
+# ''受训：''动物伙伴
+# ''专家：''专业动物伙伴训练
+# ''大师：''专业动物伙伴训练
+# ''传奇：''专业动物伙伴训练
+
+!!! 动物伙伴 Animal Companion
+如果你没有[[友伴]]，你获得一个[[动物伙伴]]友伴。
+
+你的友伴可以获得动物伙伴等级。该友伴的最大动物伙伴等级为4，动物伙伴能力组熟练度专家、大师和传奇时这一等级上限提高到6、8和10。
+
+!!! 专业动物伙伴训练 Professional Animal Companion Training
+你的动物伙伴进行一次友伴训练。
+
+!! 专长 Feats
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[专长]] +[sort[title]]">>

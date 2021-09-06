@@ -1,0 +1,11 @@
+created: 20210906085801991
+creator: Fifholz
+modified: 20210906085918366
+modifier: Fifholz
+title: 战斗防御
+tmap.id: 6d0fea24-8ef3-4a15-9be9-22f372cca9b3
+type: text/vnd.tiddlywiki
+
+> ''10 + 徒手BAB + 力量 + 其他加减值''
+
+如果一个生物持握近战武器，那么将徒手BAB改为持握该近战武器时的BAB。

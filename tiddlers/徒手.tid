@@ -1,7 +1,7 @@
 created: 20210905101933261
 creator: TiddlyGitUser
-modified: 20210905110325120
-modifier: TiddlyGitUser
+modified: 20210906171551866
+modifier: Fifholz
 tags: 技能 战斗
 title: 徒手
 tmap.id: 85fd7013-8c46-445c-8c4c-89281069f029
@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 
 无武装攻击有两种：天生武器攻击和徒手击打。角色如果在徒手技能上未受训，那么它做出的无武装攻击将引发威胁他的生物的借机攻击。
 
-天生武器 Natural Weapon
+!!! 天生武器 Natural Weapon
 天生武器指的是生物生来那些适合进行攻击的肢体。天生武器攻击是一种无武装攻击而非武器攻击。
 
 任何角色都会天然地对以下来源的无武装攻击受训，如同在徒手技能上受训一般：

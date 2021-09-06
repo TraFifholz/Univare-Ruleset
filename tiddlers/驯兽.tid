@@ -1,0 +1,16 @@
+created: 20210906171557749
+creator: Fifholz
+modified: 20210906171828965
+modifier: Fifholz
+tags: 技能
+title: 驯兽
+tmap.id: 76dcd459-3d47-402a-b01a-3f6828f97475
+type: text/vnd.tiddlywiki
+
+''相关属性：''[[魅力]]
+
+当你在驯兽上受训时，你将获得[[指挥动物]]、[[驯服]]和[[训练动物]]的能力。
+
+! 天赋 Talents
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[天赋]] +[sort[title]]">>

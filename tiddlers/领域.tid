@@ -1,0 +1,12 @@
+created: 20210906153640282
+creator: Fifholz
+modified: 20210906153750093
+modifier: Fifholz
+tags: 
+title: 领域
+tmap.id: 505c5327-04b0-429e-8d2a-d5de614dc98b
+type: text/vnd.tiddlywiki
+
+魔法领域是一类跟[[法术]]相关的能力组。你通过魔法领域来获得可知法术。同时，魔法领域的熟练度还会决定你所施展法术的熟练度。
+
+<<list-links filter:"[tag[领域]] +[sort[title]]">>

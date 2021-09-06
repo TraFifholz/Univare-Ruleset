@@ -1,0 +1,17 @@
+created: 20210906090014267
+creator: Fifholz
+modified: 20210906090222562
+modifier: Fifholz
+tags: 
+title: 魔法强度
+tmap.id: 29ba1acd-137c-4475-932f-c4bf56608609
+type: text/vnd.tiddlywiki
+
+魔法强度是一个魔法效果所具有的属性，这个数值描述了这个魔法效果的强弱。不同魔法效果的魔法强度有不同的计算方式。
+
+!!! 魔法强度检定 MS Check
+{{魔法强度检定}}
+
+!!! 魔法强度防御 MS Defense, MSD
+{{魔法强度防御}}
+
