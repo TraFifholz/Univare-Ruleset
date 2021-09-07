@@ -1,6 +1,6 @@
 created: 20210906153817098
 creator: Fifholz
-modified: 20210906161929080
+modified: 20210907102916094
 modifier: Fifholz
 title: 法术
 tmap.id: bab09dd1-dfc8-46e7-ac30-f42c9a4460a6
@@ -27,5 +27,5 @@ type: text/vnd.tiddlywiki
 !!! 其他规则 Other Rules
 
 * [[变形：型态改变]]
-* [[变形：特性]]
+* [[变形特性]]
 * [[内在法术]]

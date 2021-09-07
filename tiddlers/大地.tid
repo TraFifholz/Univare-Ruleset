@@ -1,6 +1,6 @@
 created: 20210905124520367
 creator: Fifholz
-modified: 20210906083656536
+modified: 20210907103031777
 modifier: Fifholz
 tags: 领域
 title: 大地
@@ -17,12 +17,26 @@ type: text/vnd.tiddlywiki
 
 你获得[[大地技俩]]作为额外自发法术。
 
-!!! 法术
+!! 法术 Spells
 
 你的领域法术会具有等同于你领域熟练度的法术熟练度。
 
-<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[sort[title]]">>
+以下法术只需要你在领域上''受训''便可知：
 
-!!! 天赋
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[受训]] +[sort[title]]">>
+
+以下法术需要你在领域上具有''专家''的熟练度才可知：
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[专家]] +[sort[title]]">>
+
+以下法术需要你在领域上具有''大师''的熟练度才可知：
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[大师]] +[sort[title]]">>
+
+以下法术需要你在领域上具有''传奇''的熟练度才可知：
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[传奇]] +[sort[title]]">>
+
+!! 天赋 Talents
 
 <<list-links filter:"[tag<currentTiddler>] +[tag[天赋]] +[sort[title]]">>
