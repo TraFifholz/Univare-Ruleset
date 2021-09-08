@@ -1,0 +1,42 @@
+created: 20210908132904505
+creator: Fifholz
+modified: 20210908132938287
+modifier: Fifholz
+tags: 领域
+title: 大气
+tmap.id: 1cbd140d-6e8f-4540-bd78-a837b30cfd77
+type: text/vnd.tiddlywiki
+
+|熟练度|好处|
+|受训|基础法术|
+|专家||
+|大师||
+|传奇||
+
+!!! 基础法术 Basic Spells
+
+你获得[[大气技俩]]作为额外自发法术。
+
+!! 法术 Spells
+
+你的领域法术会具有等同于你领域熟练度的法术熟练度。
+
+以下法术只需要你在领域上''受训''便可知：
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[受训]] +[sort[title]]">>
+
+以下法术需要你在领域上具有''专家''的熟练度才可知：
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[专家]] +[sort[title]]">>
+
+以下法术需要你在领域上具有''大师''的熟练度才可知：
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[大师]] +[sort[title]]">>
+
+以下法术需要你在领域上具有''传奇''的熟练度才可知：
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[传奇]] +[sort[title]]">>
+
+!! 天赋 Talents
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[天赋]] +[sort[title]]">>
