@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;大气技俩&apos;%2520by%2520Fifholz</loc>
+		<lastmod>2021-09-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目%25201&apos;%2520by%2520Fifholz</loc>
 		<lastmod>2021-09-07</lastmod>
 		<changefreq>monthly</changefreq>
@@ -313,6 +319,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:大气</loc>
+		<lastmod>2021-09-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:天生护甲训练</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -333,6 +345,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:奥术</loc>
 		<lastmod>2021-09-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:威斯特</loc>
+		<lastmod>2021-09-08</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:威斯特的历史</loc>
+		<lastmod>2021-09-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1106,7 +1130,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:首页</loc>
-		<lastmod>2021-09-06</lastmod>
+		<lastmod>2021-09-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
