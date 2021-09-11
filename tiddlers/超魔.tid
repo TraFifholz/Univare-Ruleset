@@ -1,0 +1,9 @@
+created: 20210911083326145
+creator: Fifholz
+modified: 20210911083333890
+modifier: Fifholz
+title: 超魔
+tmap.id: e3adc6ad-ee9b-485c-92fb-6d2b9ca9cd19
+type: text/vnd.tiddlywiki
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[超魔]] +[sort[title]]">>

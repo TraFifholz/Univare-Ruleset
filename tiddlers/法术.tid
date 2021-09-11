@@ -1,6 +1,6 @@
 created: 20210906153817098
 creator: Fifholz
-modified: 20210907102916094
+modified: 20210911083314845
 modifier: Fifholz
 title: 法术
 tmap.id: bab09dd1-dfc8-46e7-ac30-f42c9a4460a6
@@ -14,6 +14,7 @@ type: text/vnd.tiddlywiki
 * [[法术环级]]
 * [[增强]]
 * [[魔力点]]
+* [[超魔]]
 
 当你施放法术时，依据以下顺序来结算你的施法行动：
 

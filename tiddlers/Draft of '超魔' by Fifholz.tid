@@ -1,0 +1,15 @@
+created: 20210911083326145
+creator: Fifholz
+draft.of: 超魔
+draft.title: 超魔
+modified: 20210911083357408
+modifier: Fifholz
+title: Draft of '超魔' by Fifholz
+tmap.id: e3adc6ad-ee9b-485c-92fb-6d2b9ca9cd19
+type: text/vnd.tiddlywiki
+
+超魔是一种特殊的修正魔法的方式。
+
+!!! 超魔天赋
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[超魔]] +[sort[title]]">>
