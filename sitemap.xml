@@ -25,6 +25,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;超魔&apos;%2520by%2520Fifholz</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Have%2520fun%2520with</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -205,6 +211,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:剧毒法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:力量</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -249,6 +261,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:原能</loc>
 		<lastmod>2021-09-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:及远法术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -315,6 +333,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:大地</loc>
 		<lastmod>2021-09-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:大地之攫</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -433,14 +457,38 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:延续法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:延迟</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:延迟法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:异能</loc>
 		<lastmod>2021-09-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:弹性法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:强固法术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -487,6 +535,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:慈悯法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:战技</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -525,6 +579,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:托纳人</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:扰咒法术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -733,6 +793,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:永恒法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:沙尘</loc>
 		<lastmod>2021-09-07</lastmod>
 		<changefreq>monthly</changefreq>
@@ -746,7 +812,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:法术</loc>
-		<lastmod>2021-09-07</lastmod>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -757,8 +823,38 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:法术增远</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:法术定发</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:法术射程</loc>
 		<lastmod>2021-09-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:法术延时</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:法术强效</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:法术扩展</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -769,14 +865,38 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:法术极效</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:法术环级</loc>
 		<lastmod>2021-09-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:法术瞬发</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:法术穿刺</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:法术辨识</loc>
 		<lastmod>2021-09-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:法术默发</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -795,6 +915,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:游泳精通</loc>
 		<lastmod>2021-09-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:溅射法术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -823,6 +949,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:爆发施法</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:爬行</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -831,6 +963,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:特殊战斗</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:狂暴法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:甄选法术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -871,8 +1015,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:短暂法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:石之箭</loc>
-		<lastmod>2021-09-08</lastmod>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -897,6 +1047,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:石肤术</loc>
 		<lastmod>2021-09-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:破土术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:破敌法术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -949,6 +1111,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:穿刺法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:穿甲助手</loc>
 		<lastmod>2021-09-09</lastmod>
 		<changefreq>monthly</changefreq>
@@ -957,6 +1125,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:箭矢</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:纠缠术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1129,6 +1303,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:超魔</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:趴下</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -1233,6 +1413,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:防御水平</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:集中法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:顽强法术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
