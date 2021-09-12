@@ -122,13 +122,19 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:人物数据</loc>
-		<lastmod>2021-09-05</lastmod>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:人类</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:以巧破力</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -141,6 +147,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:伤害骰</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:低姿滑铲</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:体术</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -171,6 +189,24 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:信仰</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:俯卧</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:借力打力</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:借机</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -229,6 +265,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:劈挂击</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:力量</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -237,6 +279,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:动作</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:动摇</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -308,13 +356,19 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:变形：型态改变</loc>
-		<lastmod>2021-09-06</lastmod>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:变形：特性</loc>
 		<lastmod>2021-09-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:叠莲打</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -409,6 +463,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:失衡</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:夹击</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -459,6 +519,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:安条克人</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:对拳</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -715,6 +781,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:措手不及</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:援助</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -807,6 +879,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:无甲训练</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:易体势</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1237,6 +1315,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:耐性</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:职业</loc>
 		<lastmod>2021-09-06</lastmod>
 		<changefreq>monthly</changefreq>
@@ -1255,8 +1339,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:聚焦</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:能力组</loc>
-		<lastmod>2021-09-06</lastmod>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1473,6 +1563,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:避人耳目</loc>
 		<lastmod>2021-09-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:重砸地</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
