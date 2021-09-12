@@ -1,9 +1,15 @@
 created: 20210911083326145
 creator: Fifholz
-modified: 20210911083333890
+modified: 20210911083452578
 modifier: Fifholz
 title: 超魔
 tmap.id: e3adc6ad-ee9b-485c-92fb-6d2b9ca9cd19
 type: text/vnd.tiddlywiki
+
+超魔是一种特殊的修正魔法的方式。每个人都可以掌握用在自己施展的法术上。
+
+每个超魔都会提高法术的实际环位，具体见超魔天赋上的描述。
+
+!!! 超魔天赋
 
 <<list-links filter:"[tag<currentTiddler>] +[tag[超魔]] +[sort[title]]">>

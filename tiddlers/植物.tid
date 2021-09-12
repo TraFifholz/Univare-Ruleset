@@ -1,10 +1,10 @@
-created: 20210905124520367
+created: 20210911083510998
 creator: Fifholz
-modified: 20210911110628711
+modified: 20210911083521964
 modifier: Fifholz
 tags: 领域
-title: 大地
-tmap.id: 67f58261-cf2f-49dd-8510-8e99f2320fb8
+title: 植物
+tmap.id: 46bc5512-53ce-4d53-b11a-73f9e84026e6
 type: text/vnd.tiddlywiki
 
 |熟练度|好处|
@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 
 !!! 基础法术 Basic Spells
 
-你获得[[大地技俩]]作为额外自发法术。
+你获得[[植物技俩]]作为额外自发法术。
 
 !! 法术 Spells
 
@@ -28,9 +28,6 @@ type: text/vnd.tiddlywiki
 以下法术需要你在领域上具有''专家''的熟练度才可知：
 
 <<list-links filter:"[tag<currentTiddler>] +[tag[法术]] +[tag[专家]] +[sort[title]]">>
-
-* [[基础元素召唤术]]，限[[活体土丘]]
-* [[基础元素型态]]，限[[活体土丘]]
 
 以下法术需要你在领域上具有''大师''的熟练度才可知：
 
