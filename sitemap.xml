@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;基础元素型态&apos;%2520by%2520Fifholz</loc>
+		<lastmod>2021-09-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;大气技俩&apos;%2520by%2520Fifholz</loc>
 		<lastmod>2021-09-08</lastmod>
 		<changefreq>monthly</changefreq>
@@ -175,6 +181,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:元素之躯</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:兼职</loc>
 		<lastmod>2021-09-06</lastmod>
 		<changefreq>monthly</changefreq>
@@ -278,7 +290,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:反应之盾</loc>
-		<lastmod>2021-09-06</lastmod>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -314,7 +326,19 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:埋葬术</loc>
-		<lastmod>2021-09-08</lastmod>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:基础元素召唤术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:基础元素型态</loc>
+		<lastmod>2021-09-12</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -332,7 +356,7 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:大地</loc>
-		<lastmod>2021-09-07</lastmod>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -345,6 +369,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:大地技俩</loc>
 		<lastmod>2021-09-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:大地视域</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -517,6 +547,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:快速挖掘</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:念动之盾</loc>
 		<lastmod>2021-09-06</lastmod>
 		<changefreq>monthly</changefreq>
@@ -639,6 +675,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:掘地</loc>
 		<lastmod>2021-09-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:掘地术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -781,6 +823,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:植物</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:横冲直撞</loc>
 		<lastmod>2021-09-09</lastmod>
 		<changefreq>monthly</changefreq>
@@ -901,6 +949,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:活体土丘</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:流沙埋葬</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:游侠</loc>
 		<lastmod>2021-09-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -945,6 +1005,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:滚地龙</loc>
 		<lastmod>2021-09-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:潜地</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1033,6 +1099,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:石墙术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:石拳术</loc>
 		<lastmod>2021-09-10</lastmod>
 		<changefreq>monthly</changefreq>
@@ -1047,6 +1119,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:石肤术</loc>
 		<lastmod>2021-09-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:石言术</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1099,6 +1177,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:禁足</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:种族</loc>
 		<lastmod>2021-09-07</lastmod>
 		<changefreq>monthly</changefreq>
@@ -1117,8 +1201,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:穿墙术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:穿甲助手</loc>
 		<lastmod>2021-09-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:窒息</loc>
+		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1418,6 +1514,12 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:集中法术</loc>
+		<lastmod>2021-09-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:震颤术</loc>
 		<lastmod>2021-09-11</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
