@@ -1,0 +1,12 @@
+created: 20210912014409105
+creator: Fifholz
+modified: 20210912014417804
+modifier: Fifholz
+tags: 体术 天赋
+title: 叠莲打
+tmap.id: 6e72b30e-15dd-4f51-a035-ad9939b44df6
+type: text/vnd.tiddlywiki
+
+''先决条件：''体术专家
+
+当你以无武装攻击对一个生物成功重击时，你能选择放弃这次重击效果并使得在你下回合之前下一个用近战武器命中这个敌人的盟友自动重击。你的攻击只会造成正常伤害，而下一个盟友会在命中时自动重击。

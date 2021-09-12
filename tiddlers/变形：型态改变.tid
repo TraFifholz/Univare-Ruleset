@@ -1,6 +1,6 @@
 created: 20210906163242031
 creator: Fifholz
-modified: 20210906163530021
+modified: 20210912013640327
 modifier: Fifholz
 title: 变形：型态改变
 tmap.id: 8ca3ec75-d246-40d4-a3b0-a9f88f1386a1
@@ -8,16 +8,11 @@ type: text/vnd.tiddlywiki
 
 型态改变类法术是一类法术的统称，它们会遵循以下的一些规则：
 
-
 <<<
 型态改变 Shapeshift [AA]
 [变形]
 
-''距离：''接触的自愿生物
-
 ''持续时间：''1分钟
-
-''豁免：''体质
 
 你可改变自己或你接触的生物的型态。当你改变型态时，特定的型态改变法术会提供你可以变形的型态。
 

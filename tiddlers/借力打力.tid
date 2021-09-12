@@ -1,0 +1,20 @@
+created: 20210912014503045
+creator: Fifholz
+modified: 20210912014505948
+modifier: Fifholz
+tags: 体术 天赋
+title: 借力打力
+tmap.id: fe54a06b-8364-44c9-8b77-2391c0461bb2
+type: text/vnd.tiddlywiki
+
+''先决条件：''体术受训
+
+你获得借力打力行动。
+
+!!! 借力打力 Counterbalance [R]
+
+''触发：''每当生物在你的威胁区域内近战攻击你并且失手。
+
+你可以对该生物进行摔绊。该生物针对此战技上的防御获得等同于其攻击上正在承受的减值的减值。
+
+''增强（1tp）：''此行动获得[[借机]]特性。

@@ -1,0 +1,32 @@
+created: 20210912014003848
+creator: Fifholz
+modified: 20210912020130726
+modifier: Fifholz
+tags: 流派
+title: 体术
+tmap.id: 36c2714c-4db6-4e94-8a71-d155b6fa8f88
+type: text/vnd.tiddlywiki
+
+体术流派是关心徒手击打的流派。
+
+当你在体术上受训时，你可以将一次徒手击打替换为以下一些用身体发起的战技：
+
+*   [[冲撞]]；
+
+*   [[攫抓]]；
+
+*   [[摔绊]]。
+
+同时，根据你在体术流派上的熟练度，你的徒手击打伤害骰会随之变化。当你在体术上受训时，你的徒手击打伤害骰依然是d4，专家d6，大师d8，传奇d10。
+
+!! 天赋 Talents
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[天赋]] +[sort[title]]">>
+
+!! 架式 Stances
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[架式]] +[sort[title]]">>
+
+!! 武技 Maneuvers
+
+<<list-links filter:"[tag<currentTiddler>] +[tag[武技]] +[sort[title]]">>
